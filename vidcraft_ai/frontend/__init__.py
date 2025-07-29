@@ -1,0 +1,1 @@
+# Makes the frontend folder a Python package for relative imports.
